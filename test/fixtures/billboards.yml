@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  top_100_us: 1
+  top_100_eur: 1
+  top_100_world: 1
+
+two:
+  top_100_us: 1
+  top_100_eur: 1
+  top_100_world: 1
